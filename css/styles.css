@@ -2820,6 +2820,10 @@ img.u-pull-left {
     margin-top        : 0;
 }
 
+.text-huge-title span {
+    font-weight: 100;
+}
+
 /* ------------------------------------------------------------------- 
  * responsive:
  * project-wide shared styles
